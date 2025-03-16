@@ -10,6 +10,11 @@ public class SampleTest {
 public void launch()
 {
 	WebDriver driver=new ChromeDriver();
+<<<<<<< HEAD
 	Reporter.log("push demo test ");
+=======
+	reporter.log("push rom github to project");
+	
+>>>>>>> branch 'master' of https://github.com/sowmyaytgowda/demo.git
 }
 }
