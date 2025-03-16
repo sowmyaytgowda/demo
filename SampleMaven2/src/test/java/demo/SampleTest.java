@@ -9,6 +9,7 @@ public class SampleTest {
 public void launch()
 {
 	WebDriver driver=new ChromeDriver();
+	reporter.log("push rom github to project");
 	
 }
 }
